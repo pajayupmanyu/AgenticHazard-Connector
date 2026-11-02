@@ -34,4 +34,7 @@ Menu names change from time to time. If you can't find them, look for "connector
 
 ## Contact
 
-Corresponding author: Varun Sharma (vsvarun92@gmail.com), Department of Civil Engineering, Indian Institute of Technology Madras.
+- Ajay Kumar Pathak (p.ajayupmanyu@gmail.com)
+- Varun Sharma, corresponding author (vsvarun92@gmail.com)
+
+Department of Civil Engineering, Indian Institute of Technology Madras.
